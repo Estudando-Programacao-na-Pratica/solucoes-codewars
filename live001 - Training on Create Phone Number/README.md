@@ -1,4 +1,4 @@
-# Kata: Create Phone Number
+# [Kata: Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/)
 <b>Rank:</b> 6 kyu  
 <b>Solution date:</b> 22/08/2021
 
