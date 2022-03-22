@@ -7,8 +7,8 @@ letter words reversed (Just like the name of this Kata). Strings passed in will 
 Spaces will be included only when more than one word is present.
 
 Examples: 
-```
-spinWords( "Hey fellow warriors" ) => returns "Hey wollef sroirraw" 
-spinWords( "This is a test") => returns "This is a test" 
-spinWords( "This is another test" )=> returns "This is rehtona test"
+```python
+spinWords("Hey fellow warriors") => returns "Hey wollef sroirraw" 
+spinWords("This is a test") => returns "This is a test" 
+spinWords("This is another test")=> returns "This is rehtona test"
 ```
