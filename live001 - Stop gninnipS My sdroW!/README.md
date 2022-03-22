@@ -8,7 +8,10 @@ Spaces will be included only when more than one word is present.
 
 Examples: 
 ```python
-spinWords("Hey fellow warriors") => returns "Hey wollef sroirraw" 
-spinWords("This is a test") => returns "This is a test" 
-spinWords("This is another test")=> returns "This is rehtona test"
+>>> spinWords("Hey fellow warriors")
+"Hey wollef sroirraw" 
+>>> spinWords("This is a test")
+"This is a test" 
+>>> spinWords("This is another test")
+"This is rehtona test"
 ```
