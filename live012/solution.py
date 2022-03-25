@@ -1,27 +1,3 @@
-"""
-# Testes separar números:
-
-
-# Teste resposta
->>> solve_runes("1+1=?")
-2
->>> solve_runes("123*45?=5?088")
-6
->>> solve_runes("-5?*-1=5?")
-0
->>> solve_runes("19--45=5?")
--1
->>> solve_runes("??*??=302?")
-5
->>> solve_runes("?*11=??")
-2
->>> solve_runes("??*1=??")
-2
->>> solve_runes("?8?170-1?6256=7?2?14")
-9
-"""
-
-
 def separar_numeros(string):
     temp = '-' if string[0] == '-' else ''
     op = ''
@@ -34,7 +10,8 @@ def separar_numeros(string):
         string = string[1:]
 
     for numero in string:
-        if numero.isalnum() or numero == '?':
+        # Acionado a condição final para lidar com o caso de -5*-5=5?
+        if numero.isalnum() or numero == '?' or (numero == '-' and op != ''):
             temp += numero
         else:
             resp.append(temp)
