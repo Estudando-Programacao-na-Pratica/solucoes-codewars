@@ -1,4 +1,4 @@
-# [Find the unknown digit(https://www.codewars.com/kata/546d15cebed2e10334000ed9)
+# [Find the unknown digit](https://www.codewars.com/kata/546d15cebed2e10334000ed9)
 
 **Rank:** 4 kyu  
 **Solution date:** 24/03/2022
