@@ -1,3 +1,4 @@
+
 def separar_numeros(string):
     temp = '-' if string[0] == '-' else ''
     string = string.replace('--', '+') if '--' in string else string[1:] if temp == '-' else string
@@ -24,10 +25,9 @@ def pode_zero(num):
             return False
     return True
 
-
 def solve_runes(runes):
     num_separados = separar_numeros(runes)
-
+    
     for num in range(1, 10) if not pode_zero(num_separados) else range(10):
         if str(num) in runes:
             continue
@@ -43,5 +43,4 @@ def solve_runes(runes):
 
         if operacoes[num_separados[-1]]:
             return num
-
     return -1
