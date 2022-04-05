@@ -44,3 +44,5 @@ def solve_runes(runes):
         if operacoes[num_separados[-1]]:
             return num
     return -1
+
+
