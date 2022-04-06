@@ -24,4 +24,4 @@ Repositório com as soluções dos exercícios de Codewars resolvidos em live no
 
 
 ### [Live 013: Desvendando runas](https://youtu.be/sxoBPzELRZI)
-- [Find_the_Unknown_digit](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/live012_Find_the_Unknown_digit)
+- [Find the Unknown digit](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/live012_Find_the_Unknown_digit)
