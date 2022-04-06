@@ -1,4 +1,4 @@
-from live012_Find_the_Unknown_digit.solution import solve_runes
+from live013_Find_the_Unknown_digit.solution import solve_runes
 
 
 def test_solve_runes():
