@@ -8,13 +8,14 @@ Repositório com as soluções dos exercícios de Codewars resolvidos em live no
 - [Leonardo Oliveira](https://github.com/olv-leo)
 - [Gabriel Santos](https://github.com/santos-bino)
 
-# Lives e Katas:
 
+##6 Kyu 
 |Kata    |Soluções    |Resolução ao vivo    |Assuntos  |
 |:------:|:----------:|:-------------------:|:--------:|
 |**[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/live001%20-%20Stop%20gninnipS%20My%20sdroW!)|[Link](https://youtu.be/2jSXuPXfYko)| `conditional`, `loops`, `list`
 
 
+# Lives e Katas:
 ### [Live 001: O começo da Saga Codewars](https://youtu.be/2jSXuPXfYko)
 - [Training on Create Phone Number](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/live001%20-%20Training%20on%20Create%20Phone%20Number)
 
