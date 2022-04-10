@@ -10,9 +10,9 @@ Repositório com as soluções dos exercícios de Codewars resolvidos em live no
 
 # Lives e Katas:
 
-| Kata | Soluções | Resolução ao vivo | Assuntos |
-|------|----------|-------------------|----------|
-|[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/live001%20-%20Stop%20gninnipS%20My%20sdroW!)|[Link](https://youtu.be/2jSXuPXfYko)| `for`, `if`, `list`, `len`, `append`, `split`, `join` |
+|Kata    |Soluções    |Resolução ao vivo    |Assuntos  |
+|:------:|:----------:|:-------------------:|:--------:|
+|**[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/live001%20-%20Stop%20gninnipS%20My%20sdroW!)|[Link](https://youtu.be/2jSXuPXfYko)| `conditional`, `loops`, `list`
 
 
 ### [Live 001: O começo da Saga Codewars](https://youtu.be/2jSXuPXfYko)
