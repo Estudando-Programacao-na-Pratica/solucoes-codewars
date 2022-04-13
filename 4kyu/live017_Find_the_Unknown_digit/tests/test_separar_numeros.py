@@ -1,4 +1,4 @@
-from live013_Find_the_Unknown_digit.solution import separar_numeros
+from live017_Find_the_Unknown_digit.solution import separar_numeros
 def test_sep_num():
     assert separar_numeros("123*45?=5?088") == ['123', '45?', '5?088', '*']
     assert separar_numeros('1+1=?') == ['1', '1', '?', '+']
