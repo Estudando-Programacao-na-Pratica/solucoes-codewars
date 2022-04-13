@@ -12,7 +12,7 @@ Repositório com as soluções dos exercícios de Codewars resolvidos em live no
 ##6 Kyu 
 |Kata    |Soluções    |Resolução ao vivo    |Assuntos  |
 |:------:|:----------:|:-------------------:|:--------:|
-|**[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/live001%20-%20Stop%20gninnipS%20My%20sdroW!)|[Link](https://youtu.be/2jSXuPXfYko)| `conditional`, `loops`, `list`
+|**[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/live001%20-%20Stop%20gninnipS%20My%20sdroW!)|[Live 001](https://youtu.be/2jSXuPXfYko)| `conditional`, `loops`, `list`
 
 
 # Lives e Katas:
