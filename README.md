@@ -24,7 +24,8 @@ Bora estudar e aprender juntos!
 
 |KATA    |SOLUÇÃO   |RESOLUÇÃO    |TÓPICOS  |
 |:------|:----------:|:-------------------:|:--------|
-|**[Find the unknown digit](https://www.codewars.com/kata/546d15cebed2e10334000ed9)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/4kyu/live017_Find_the_Unknown_digit)|[Live 016](https://youtu.be/sxoBPzELRZI), [Live 017](https://youtu.be/fiFJhP8txBs)| `conditional`, `loops`, `str`
+|**[Number of integer partitions](https://www.codewars.com/kata/546d5028ddbcbd4b8d001254)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/4kyu/live017%20-%20Number%20of%20integer%20partitions)| [Live 017](https://youtu.be/fiFJhP8txBs)| `conditional`, `recursion`
+|**[Find the unknown digit](https://www.codewars.com/kata/546d15cebed2e10334000ed9)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/4kyu/live017%20-%20Number%20of%20integer%20partitions)|[Live 016](https://youtu.be/sxoBPzELRZI), [Live 017](https://youtu.be/fiFJhP8txBs)| `conditional`, `loops`, `str`
 
 ## 5 Kyu
 
