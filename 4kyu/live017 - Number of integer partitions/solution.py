@@ -12,7 +12,7 @@ Doctests
 >>> partitions(25)
 1958
 
-Referência para solução: https://edisciplinas.usp.br/mod/assign/view.php?id=3466279
+Referência de estudo para chegar na solução: https://edisciplinas.usp.br/mod/assign/view.php?id=3466279
 
 p(1 1) = 1
 
@@ -44,10 +44,22 @@ p(6 5) => p(1 5) => 10
 p(6 6) => p(0 6) => 11
 """
 
-def partition(n):
-    part = (n, n)
 
-    if part == (1, 1):
+def partition_recursion(n1, n2):
+    if n2 == 1:
         return 1
+
+    if n1 == n2:
+        return partition_recursion(n1, n2-1) + 1
+
+    if n1 - n2 < n2:
+        return partition_recursion(n1, n2-1) + partition_recursion(n1-n2, n1-n2)
+
+    if n1 - n2 >= n2:
+        return partition_recursion(n1, n2-1) + partition_recursion(n1-n2, n2)
+
+
+def partitions(n):
+    return partition_recursion(n1=n, n2=n)
 
 
