@@ -1,3 +1,37 @@
+"""
+Doctests:
+>>> separar_numeros("123*45?=5?088")
+['123', '45?', '5?088', '*']
+>>> separar_numeros('1+1=?')
+['1', '1', '?', '+']
+>>> separar_numeros("123*45?=5?088")
+['123', '45?', '5?088', '*']
+>>> separar_numeros("??*??=302?")
+['??', '??', '302?', '*']
+>>> separar_numeros("-5?*-1=5?")
+['-5?', '-1', '5?', '*']
+>>> separar_numeros("19--45=5?")
+['19', '45', '5?', '+']
+>>> separar_numeros("?8?170-1?6256=7?2?14")
+['?8?170', '1?6256', '7?2?14', '-']
+
+>>> solve_runes("1+1=?")
+2
+>>> solve_runes("123*45?=5?088")
+6
+>>> solve_runes("-5?*-1=5?")
+0
+>>> solve_runes("19--45=5?")
+-1
+>>> solve_runes("??*??=302?")
+5
+>>> solve_runes("?*11=??")
+2
+>>> solve_runes("??*1=??")
+2
+>>> solve_runes("?8?170-1?6256=7?2?14")
+9
+"""
 
 def separar_numeros(string):
     temp = '-' if string[0] == '-' else ''
