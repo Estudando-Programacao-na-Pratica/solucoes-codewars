@@ -31,6 +31,7 @@ Bora estudar e aprender juntos!
 
 |KATA    |SOLUÇÃO   |RESOLUÇÃO    |TÓPICOS  |
 |:------|:----------:|:-------------------:|:--------|
+|**[Kata: Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)**|[Link](https://github.com/olv-leo/solucoes-codewars/tree/main/5kyu/Live%20005%20-%20Calculating%20with%20Functions)|[Live 005](https://youtu.be/PtYv-OMJUIA)| `functions`, `args`, `dict`
 |**[String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/5kyu/live004%20e%20Live%20005%20-%20String%20incrementer)|[Live 004](https://youtu.be/IGpl-YaKKOo), [Live 005](https://youtu.be/PtYv-OMJUIA)| `conditional`, `loops`, `str`
 |**[Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/5kyu/live003%20-%20Simple%20Pig%20Latin)|[Live 003](https://youtu.be/Jz5JlUd7EX4)| `list`, `loops`, `str`
 |**[RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/5kyu/live002%20-%20RGB%20To%20Hex%20Conversion)|[Live 002](https://youtu.be/P6khcpFts2E)| `conditional`, `list`, `loops`
