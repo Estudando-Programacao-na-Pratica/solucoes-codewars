@@ -26,3 +26,4 @@ integer partitions of n for n at least as large as 100.
 >>> partitions(25)
 1958
 ```
+
