@@ -26,6 +26,8 @@ Bora estudar e aprender juntos!
 |:------|:----------:|:-------------------:|:--------|
 |**[Number of integer partitions](https://www.codewars.com/kata/546d5028ddbcbd4b8d001254)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/4kyu/live017%20-%20Number%20of%20integer%20partitions)| [Live 017](https://youtu.be/fiFJhP8txBs)| `conditional`, `recursion`
 |**[Find the unknown digit](https://www.codewars.com/kata/546d15cebed2e10334000ed9)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/4kyu/live017%20-%20Number%20of%20integer%20partitions)|[Live 016](https://youtu.be/sxoBPzELRZI), [Live 017](https://youtu.be/fiFJhP8txBs)| `conditional`, `loops`, `str`
+|**[]()**|[]()|[]()|
+
 
 ## 5 Kyu
 
@@ -47,3 +49,4 @@ Bora estudar e aprender juntos!
 |**[Training on Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/6kyu/live001%20-%20Training%20on%20Create%20Phone%20Number)|[Live 001](https://youtu.be/2jSXuPXfYko)| `str`
 |**[Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)**|[Link](https://github.com/Estudando-Programacao-na-Pratica/solucoes-codewars/tree/main/6kyu/live001%20-%20Stop%20gninnipS%20My%20sdroW!)|[Live 001](https://youtu.be/2jSXuPXfYko)| `conditional`, `list`, `loops`
 |**[]()**|[]()|[]()|
+
